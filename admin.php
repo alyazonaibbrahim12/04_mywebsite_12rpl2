@@ -80,10 +80,10 @@
                     {
                         include('anggota.php');
                     }
-                    // elseif($_GET['page']=="buku")
-                    // {
-                    //     include('buku.php');
-                    // }
+                     elseif($_GET['page']=="buku")
+                     {
+                         include('buku.php');
+                    }
                 }
                 else
                 {
